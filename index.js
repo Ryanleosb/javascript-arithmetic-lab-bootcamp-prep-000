@@ -26,4 +26,5 @@ function makeINT(n){
 
 function preserveDecimal(n){
   reutrn parseFloat(n);
+  
 }
