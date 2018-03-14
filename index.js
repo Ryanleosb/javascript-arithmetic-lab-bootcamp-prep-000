@@ -20,7 +20,7 @@ function dec (n) {
   return n -= 1;
 }
 
-function makeINT(n){
+function makeInt (n){
   return parseInt(n, 10);
 }
 
