@@ -17,7 +17,7 @@ function increment (n){
   return n+=1;
 }
 function dec (n) {
-  reutnr n-=1;
+  return n-=1;
 }
 
 function makeINT(n){
