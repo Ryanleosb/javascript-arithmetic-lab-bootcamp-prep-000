@@ -5,15 +5,15 @@ function subtract (a,b){
   return a - b;
 }
 
-function multiplies (a,b) {
+function multiply (a,b) {
   return a * b;
 }
 
-function divides (a,b){
+function divide (a,b){
   return a / b;
 }
 
-function increment (n){
+function inc (n){
   return n += 1;
 }
 function dec (n) {
